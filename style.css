@@ -1,0 +1,57 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    margin: 0;
+    background-color: #fdf1f1;
+}
+header{
+    background-color: red;
+    background-size: cover;
+    color: #fff;
+    padding: 48px;
+}
+header h1{
+    font-size: 60px;
+}
+
+h1{
+    text-align: center;
+}
+.fondo{
+    background-image: url("pokemon.webp");
+    background-size: cover;
+    padding: 60px;
+    color: #fff;
+}
+.fondo h1{
+    text-shadow: 3px 5px 5px black;
+    font-size: 60px;
+}
+.contenedor{
+    width: 800px;
+    margin: 0 auto;
+}
+section article{
+    background-color: #fff;
+    margin: 16px 0;
+    border-radius: 10px;
+    padding: 4px 0;
+}
+section article p{
+    margin: 16px;
+}
+footer{
+    background-color: red;
+    padding: 38px;
+    color: #fff;
+}
+a:link{
+    color: blue;
+}
+a:visited{
+    color: white;
+}
+a:hover{
+    color: blueviolet;
+}
