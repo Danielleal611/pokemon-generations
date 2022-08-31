@@ -55,3 +55,17 @@ a:visited{
 a:hover{
     color: blueviolet;
 }
+
+.generaciones a:visited{
+    color: red;
+}
+.generaciones{
+    border-radius: 10px;
+    width: 175px;
+    background-color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+a{
+    text-decoration: none;
+}
